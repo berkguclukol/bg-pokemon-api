@@ -27,7 +27,7 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ### Home Page Example
 ![BG Pokemon API](https://github.com/berkguclukol/bg-pokemon-api/blob/main/public/screenshot/homepage_dark.png?raw=true)
 ![BG Pokemon API](https://github.com/berkguclukol/bg-pokemon-api/blob/main/public/screenshot/homepage_light.png?raw=true)
-### Home Page Example
+### Detail Page Example
 ![BG Pokemon API](https://github.com/berkguclukol/bg-pokemon-api/blob/main/public/screenshot/detail_page_dark.png?raw=true)
 ![BG Pokemon API](https://github.com/berkguclukol/bg-pokemon-api/blob/main/public/screenshot/detail_page_light.png?raw=true)
 
